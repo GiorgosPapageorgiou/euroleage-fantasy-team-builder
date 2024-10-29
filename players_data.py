@@ -1,5 +1,6 @@
 import math
 
+# Removed GIFFEY and BLATT (injured)
 data = {
 'ABALDE, ALBERTO': {'FP': [0.0, 7.7, 1.0, 9.9, 7.7], 'average_FP': 5.26, 'position': 'F', 'cost': 5.9 } ,
 'ABRINES, ALEX': {'FP': [4.0, 9.9, 0.0, 1.1, 12.1], 'average_FP': 5.42, 'position': 'F', 'cost': 6.7 } ,
